@@ -1,4 +1,6 @@
-![logo](./images/vincerion%20email.png)
+<p align="center">
+<img src="./images/vincerion%20email.png">
+</p>
 
 <p align="center"><a 
 href="https://github.com/Vincerion" target="_blank"><img alt="Github" 
@@ -11,6 +13,6 @@ src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&lo
 
 ---
 
-We offer accelerated digital transformation & change management services focusing on enabling people to make better use of technology to deliver superior business outcomes and customer satisfaction.
-
 ![Possible. Probable. Done.](./images/PPD_2.png)
+
+We offer accelerated digital transformation & change management services focused on enabling people to make better use of technology to deliver superior business outcomes and customer satisfaction.
